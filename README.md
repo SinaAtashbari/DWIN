@@ -1,1 +1,1 @@
-# DWIN
+This is a basic library for interfacing with DWIN LCD displays using an STM32 microcontroller. While it may not have all the advanced features or capabilities of professional-grade libraries, it provides a simple and efficient solution for quickly getting started with DWIN LCDs on STM32 platforms.
